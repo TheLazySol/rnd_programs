@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("The Start of Something Fresh! 🚀");
+    println!("TESTING GitHub Connection with this Commit!")
 }
