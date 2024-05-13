@@ -1,6 +1,7 @@
 [package]
 name = "rnd_programs"
-version = "0.1.3"
+description = "Over and Over... nothing to see here -- just a bunch of programs being tested!"
+version = "0.2.3"
 authors = ["TheLazySol"]
 edition = "2021"
 
